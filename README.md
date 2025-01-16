@@ -1,4 +1,4 @@
 # Mecanismo_4_barras
-Projeto de produção de mecanismo 4 barras pelo método de Reuleaux
+Production project of a 4-bar mechanism using the Reuleaux method
 
-O código faz o plot do gráfico do theta 4 a partir do valor de theta 2 
+The code plots the theta 4 graph from the theta 2 value
